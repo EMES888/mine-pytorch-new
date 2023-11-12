@@ -21,7 +21,7 @@ setuptools.setup(
         'matplotlib==3.1.2',
         'numpy==1.17.4',
         'tqdm==4.40.2',
-        'torch==1.13.1',
+        'torch==2.0.1',
         'torchvision==0.15.2',
         'scikit_learn==0.22.1',
         'pillow<7'
