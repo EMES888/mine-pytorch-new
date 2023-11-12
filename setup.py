@@ -22,7 +22,7 @@ setuptools.setup(
         'numpy==1.17.4',
         'tqdm==4.40.2',
         'torch==1.13.1',
-        'torchvision==0.14.0',
+        'torchvision==0.15.2',
         'scikit_learn==0.22.1',
         'pillow<7'
     ]
