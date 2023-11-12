@@ -17,13 +17,13 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires = [
-        'pytorch_lightning==0.6.0',
-        'matplotlib==3.1.2',
-        'numpy==1.17.4',
-        'tqdm==4.40.2',
-        'torch==2.0.1',
-        'torchvision==0.15.2',
-        'scikit_learn==0.22.1',
-        'pillow<7'
+        'pytorch_lightning==1.9',
+        'matplotlib==3.7.2',
+        'numpy==1.25.0',
+        'tqdm==4.57.0',
+        'torch==1.13.1',
+        'torchvision==0.14.1',
+        'scikit_learn==1.1.3',
+        'pillow==10.0.0'
     ]
 )
